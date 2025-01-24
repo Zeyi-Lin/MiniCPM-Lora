@@ -1,0 +1,9 @@
+LaTeX_OCR/
+OpenBMB/
+output/
+swanlog/
+__pycache__/
+._____temp/
+latex_ocr_train.csv
+latex_ocr_train.json
+latex_ocr_val.json
